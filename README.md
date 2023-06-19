@@ -1,11 +1,11 @@
-About r-cdft
-============
+About r-cdft-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cdft-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CDFt
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cdft-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package proposes a statistical downscaling method for cumulative distribution functions (CDF), as well as the computation of the Cram\`er-von Mises statistics U, and the Kolmogorov-Smirnov statistics KS.
 
